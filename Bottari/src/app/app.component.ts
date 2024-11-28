@@ -11,4 +11,5 @@ import { ThirdComponentComponent } from './third-component/third-component.compo
 })
 export class AppComponent {
   title = 'Bottari';
+  Marco = 'app'
 }
